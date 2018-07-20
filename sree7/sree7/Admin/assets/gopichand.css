@@ -1,0 +1,17 @@
+.av
+{
+	border:3px solid gray;
+	border-radius:50%;
+	height:70px; 
+	width:70px;
+	margin-top:-20px;
+	margin-left:10px;
+	float:left;
+	
+}
+.title1
+{
+	padding-top:10px;
+	margin-right:90px;
+	color:#68B3C8;
+}
