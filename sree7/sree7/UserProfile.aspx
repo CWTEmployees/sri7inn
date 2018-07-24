@@ -4,6 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -14,7 +17,7 @@
     </script>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>User Profile</title>
+    
     <link runat="server" rel="sortcuticon" href="public/img/favicon.ico" type="image/x-icon"  />
     <link runat="server" rel="icon" href="public/img/favicon.ico" type="image/icon" />
     <meta name="description" content="" />

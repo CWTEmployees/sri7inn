@@ -4,6 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -24,7 +27,7 @@
     <link href="css/style.css" rel="stylesheet" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Sree 7 Conventtions </title>
+    
     <link rel="stylesheet" href="https://static.fabhotels.com/css/prodproperties_v13.css.gz" type="text/css" />
 
 
@@ -233,7 +236,7 @@
                 <div class="main-page">
                     <div class="breadcrumb">
                         <ul class="clearfix">
-                            <li><a href="Home.aspx">Sree7 INN </a></li>
+                            <li><a href="Home.aspx">Sri7 INN </a></li>
                             <li>
                                 <svg class="icon">
                                     <use xlink:href="#nav-arrow" />
@@ -250,7 +253,7 @@
                                     <svg class="icon">
                                         <use xlink:href="#double-bed-icon" />
                                     </svg>
-                                    Oops! This Sree7 INN is sold out for your dates. We recommend other other date.
+                                    Oops! This Sri7 INN is sold out for your dates. We recommend other other date.
 			
                                 </p>
                             </div>
@@ -295,13 +298,16 @@
                                                                 <use xlink:href="#fits-icon" />
                                                             </svg>
                                                         </span>
-                                                        <span class="room-type-info room_type_info "><strike>&#x20B9;1,533 </strike><span class="min_price">
+                                                        
+                                                       <%-- <span class="room-type-info room_type_info "><strike>&#x20B9;1,533 </strike><span class="min_price">
                                                             <h4><font color="#2BB96E">  <b>YOU SAVE&#x20B9;564</b></font></h4>
-                                                        </span></span>
+                                                        </span></span>--%>
                                                         <span>
                                                             <h1>
-                                                                <asp:Label ID="Label2" runat="server" Text='<%# Eval("Price") %>'></asp:Label></h1>
-                                                            <br>
+                                                            <%--<asp:Label ID="Label2" runat="server" Text="$<%# Eval("Price") %>/night"></asp:Label></h1>--%>
+                                                            <br />
+                                                            <h1><strong>INR <%#Eval("Price") %>/night</strong></h1>
+                                                            <br/>
                                                         </span>
                                                     </div>
                                                 </div>
@@ -360,7 +366,7 @@
                                     <li><span>
                                         <svg class="icon">
                                             <use xlink:href="#prizecup-icon" />
-                                        </svg></span> Best reviewed hotel chain. </li>
+                                        </svg></span> Best reviewed hotel Anantapur. </li>
                                     <li><span>
                                         <svg class="icon">
                                             <use xlink:href="#centrally-located-icon" />
@@ -374,7 +380,7 @@
                                 </ul>
                             </div>
                             <div class="hospitality-section">
-                                <strong>Stay SREE7 </strong>
+                                <strong>Stay SRI7 </strong>
                                 <div class="hospitality-listing">
                                     <div class="hospitality-pic">
                                         <img src="public/img/5.jpg" />
@@ -388,7 +394,7 @@
                                         <img src="public/img/reception1.jpg" />
                                     </div>
                                     <div class="hospitality-content">
-                                        <p>We are always available to serve you, 24x7, for a sree7 stay. </p>
+                                        <p>We are always available to serve you, 24x7, for a sri7 stay. </p>
                                     </div>
                                 </div>
                                 <div class="hospitality-listing">
@@ -496,7 +502,7 @@
                             </div>
                         </div>
                         <div class="copyright">
-                            <p>&copy; 2018 Sree7 Inn All rights reserved. Powered by <a href="https://charanwebtechnologies.com/">Charan Web Technologies.</a></p>
+                            <p>&copy; 2018 Sri7 Inn All rights reserved. Powered by <a href="https://charanwebtechnologies.com/">Charan Web Technologies.</a></p>
                         </div>
                     </div>
                 </div>

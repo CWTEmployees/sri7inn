@@ -320,7 +320,7 @@ namespace sree7
             // If this declared a local Random, it would
             // ... repeat itself.
             Console.WriteLine(n);
-            Label3.Text = "Sree7" + n.ToString();
+            Label3.Text = "SRI7" + n.ToString();
             Session["BookId"] = Label3.Text;
         }
 

@@ -14,6 +14,9 @@ btn.Attributes.Add( "onclick", "popWin()" );
 </script>--%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -34,7 +37,7 @@ btn.Attributes.Add( "onclick", "popWin()" );
     <link href="css/style.css" rel="stylesheet" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Sree 7 Conventtions </title>
+   
     <link rel="stylesheet" href="https://static.fabhotels.com/css/prodproperties_v13.css.gz" type="text/css" />
 
 
@@ -627,7 +630,7 @@ btn.Attributes.Add( "onclick", "popWin()" );
 
 
             <footer>
-                © 2018 Sree7 INN. All rights reserved. Powered by <a href="https://www.charanwebtechnologies.com">Charan Web Technologies</a>
+                © 2018 Sri7 INN. All rights reserved. Powered by <a href="https://www.charanwebtechnologies.com">Charan Web Technologies</a>
             </footer>
 
             <script>

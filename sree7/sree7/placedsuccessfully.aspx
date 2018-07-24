@@ -5,7 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title>Sree7 INN</title>
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <!-- for-mobile-apps -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <link runat="server" rel="sortcuticon" href="public/img/favicon.ico" type="image/x-icon"  />
@@ -113,7 +115,7 @@
                             <%--<tr>
                                     <tr>--%>
                             <tr>
-                                <td class="auto-style3" style="color: blue;">Buyer Address:<%--</td>--%>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%--</td>--%><asp:Label ID="Label6" runat="server" ForeColor="Black"></asp:Label>
+                                <td class="auto-style3" style="color: blue;">Buyer:<%--</td>--%>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%--</td>--%><asp:Label ID="Label6" runat="server" ForeColor="Black"></asp:Label>
                                 </td>
                                 <%--      </tr>
                                 </tr>--%><%--</table>--%><%--  </td>--%>
@@ -168,7 +170,7 @@
                                     <td class="auto-style5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank You<br />
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                     <p style="color: blue">
-                                        &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SREE7 HOTELS
+                                        &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SRI7 INN HOTELS
                                     </p>
                                         <p style="color: red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THIS IS COMPUTER GENERATED INVOICE </p>
                                     </td>

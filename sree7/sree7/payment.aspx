@@ -4,7 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Payment</title>
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <link runat="server" rel="sortcuticon" href="public/img/favicon.ico" type="image/x-icon"  />
     <link runat="server" rel="icon" href="public/img/favicon.ico" type="image/icon" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
@@ -323,7 +325,7 @@
 
 
             <footer>
-                © 2018 Sree7 INN. All rights reserved. Powered by <a href="https://www.charanwebtechnologies.com">Charan Web Technologies</a>
+                © 2018 Sri7 INN. All rights reserved. Powered by <a href="https://www.charanwebtechnologies.com/">Charan Web Technologies</a>
             </footer>
         </div>
     </form>

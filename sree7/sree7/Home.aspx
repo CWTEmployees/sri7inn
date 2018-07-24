@@ -4,11 +4,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>sri7 inn serving is your refreshment destination the star hotel in Anantapur, Andra Pradesh</title>
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <link runat="server" rel="sortcuticon" href="public/img/favicon.ico" type="image/x-icon" />
     <link runat="server" rel="icon" href="public/img/favicon.ico" type="image/icon" />
-    <meta http-equiv="keywords" name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
-    <meta http-equiv="description" name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    
+    
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -131,9 +133,9 @@
 
                                 <div class="container">
                                     <div class="agileits-banner-info">
-                                        <h4>Sree7 INN</h4>
+                                        <h4>Sri7 INN</h4>
                                         <h3>We know what you love</h3>
-                                        <p>Welcome to our Sree7 Conventions</p>
+                                        <p>Welcome to our Sri7 INN</p>
                                         <div class="agileits_w3layouts_more menu__item">
                                             <a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
                                         </div>
@@ -145,7 +147,7 @@
                             <div class="w3layouts-banner-top w3layouts-banner-top1">
                                 <div class="container">
                                     <div class="agileits-banner-info">
-                                        <h4>Sree7 INN</h4>
+                                        <h4>Sri7 INN</h4>
                                         <h3>Stay with friends & families</h3>
                                         <p>Come & enjoy precious moment with us</p>
                                         <div class="agileits_w3layouts_more menu__item">
@@ -159,7 +161,7 @@
                             <div class="w3layouts-banner-top w3layouts-banner-top2">
                                 <div class="container">
                                     <div class="agileits-banner-info">
-                                        <h4>Sree7 INN</h4>
+                                        <h4>Sri7 INN</h4>
                                         <h3>want luxurious vacation?</h3>
                                         <p>Get accommodation today</p>
                                         <div class="agileits_w3layouts_more menu__item">
@@ -173,7 +175,7 @@
                             <div class="w3layouts-banner-top w3layouts-banner-top3">
                                 <div class="container">
                                     <div class="agileits-banner-info">
-                                        <h4>Sree7 INN</h4>
+                                        <h4>Sri7 INN</h4>
                                         <h3>want luxurious vacation?</h3>
                                         <p>Get accommodation today</p>
                                         <div class="agileits_w3layouts_more menu__item">
@@ -187,7 +189,7 @@
                             <div class="w3layouts-banner-top w3layouts-banner-top4">
                                 <div class="container">
                                     <div class="agileits-banner-info">
-                                        <h4>Sree7 INN</h4>
+                                        <h4>Sri7 INN</h4>
                                         <h3>want luxurious vacation?</h3>
                                         <p>Get accommodation today</p>
                                         <div class="agileits_w3layouts_more menu__item">
@@ -331,17 +333,18 @@
         <div class="about-wthree" id="about">
             <div class="container">
                 <div class="ab-w3l-spa">
-                    <h3 class="title-w3-agileits title-black-wthree">About Our Sree7 Inn</h3>
+                    <h3 class="title-w3-agileits title-black-wthree">About Our Sri7 Inn</h3>
                     <p class="about-para-w3ls">
                         Sri7 Inn offers the selective options for accommodation that fulfills modern-day business and vacation traveler needs.
-                   
+                        <br />
                         Sri7 inn hotel lie in the heart of Anantapur city, And a five minutes drive to bus and railway station. 
                         This hotel has a exquisite interior with all interior  contemporary amenities like free WiFi, ostentatiously rich and superior in quality mattress, TV with cable channels.
                         All rooms are filled with ambient modern facility so that you can enjoy your stay and rejuvenate your self for tomorrow.
-                 
+                        <br />
                         We take care of our guests comfort, so  we'll do bus, car and flight bookings for you. (price sprat).
-                    
-                        Enjoy the sooth on your stay.
+                        <br />
+                        Enjoy the sooth on your stay. 
+                        <br />
                         cheers!!! 
                     </p>
                     <!-- 	To meet your need with splendid service of Sree7 INN.
@@ -501,7 +504,7 @@
                     <img src="img/convention.jpg" class="img-responsive" alt="/" />
 
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -510,7 +513,7 @@
                 <a href="images/g2.jpg" class="swipebox">
                     <img src="images/g2.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -519,7 +522,7 @@
                 <a href="images/g3.jpg" class="swipebox">
                     <img src="images/g3.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -528,7 +531,7 @@
                 <a href="img/reception.jpg" class="swipebox">
                     <img src="img/reception.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -537,7 +540,7 @@
                 <a href="img/twin_gimg.jpg" class="swipebox">
                     <img src="img/twin_gimg.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -546,7 +549,7 @@
                 <a href="images/g6.jpg" class="swipebox">
                     <img src="images/g6.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -555,7 +558,7 @@
                 <a href="img/g7.jpg" class="swipebox">
                     <img src="img/g7.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -564,7 +567,7 @@
                 <a href="images/g6.jpg" class="swipebox">
                     <img src="images/g8.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -573,7 +576,7 @@
                 <a href="images/g9.jpg" class="swipebox">
                     <img src="images/g9.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -582,7 +585,7 @@
                 <a href="images/g10.jpg" class="swipebox">
                     <img src="images/g10.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -591,7 +594,7 @@
                 <a href="images/g4.jpg" class="swipebox">
                     <img src="images/g4.jpg" class="img-responsive" alt="/" />
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -600,7 +603,7 @@
                 <a href="images/g2.jpg" class="swipebox">
                     <img src="images/g2.jpg" class="img-responsive" alt="/">
                     <div class="textbox">
-                        <h4>Sree7 Inn</h4>
+                        <h4>Sri7 Inn</h4>
                         <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
                     </div>
                 </a>
@@ -613,7 +616,7 @@
             <div class="container">
                 <h3 class="title-w3-agileits title-black-wthree">Rooms And Rates</h3>
                 <div class="priceing-table-main">
-                    <div class="col-md-6 price-grid">
+                    <div class="col-md-3 price-grid">
                         <div class="price-block agile">
                             <div class="price-gd-top">
                                 <img src="img/dulexeroom.jpg" alt=" " class="img-responsive" />
@@ -637,7 +640,7 @@
                             </div>
                         </div>
                     </div>
-                    <%--<div class="col-md-3 price-grid ">
+                    <div class="col-md-3 price-grid ">
                         <div class="price-block agile">
                             <div class="price-gd-top">
                                 <img src="img/twin_g.jpg" alt=" " class="img-responsive" />
@@ -659,8 +662,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>--%>
-                    <div class="col-md-6 price-grid lost">
+                    </div>
+                    <div class="col-md-3 price-grid lost">
                         <div class="price-block agile">
                             <div class="price-gd-top">
                                 <img src="img/doubleroom.jpg" alt=" " class="img-responsive" />
@@ -683,7 +686,7 @@
                             </div>
                         </div>
                     </div>
-                    <%--  <div class="col-md-6 price-grid wthree lost">
+                      <div class="col-md-3 price-grid wthree lost">
                         <div class="price-block agile">
                             <div class="price-gd-top ">
                                 <img src="img/singleroom.jpg" alt=" " class="img-responsive" />
@@ -705,7 +708,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>--%>
+                    </div>
                     <div class="clearfix"></div>
                 </div>
             </div>
@@ -829,7 +832,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile2" data-aos="flip-left">
                     <div class="contact-agileits">
                         <h4>Contact Us</h4>
-                        <p class="contact-agile2">Sign Up For Our News Letters</p>
+                        <p class="contact-agile2">For Any Query!!  We will Contact as soon as Possible</p>
 
                         <%--<form action="#" method="post" name="sentMessage" id="contactForm">--%>
 
@@ -874,7 +877,7 @@
                     <p class="contact-agile1"><strong>Phone :</strong> +91 9985199522</p>
                     <p class="contact-agile1"><strong>Email :</strong> <a href="mailto:sri7inn@gmail.com" style="box-sizing: border-box; text-align: left; outline: 0px; margin: 0px; text-decoration: underline; color: inherit; cursor: pointer; word-break: break-word; word-wrap: break-word; font-family: Lato; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">sri7inn@gmail.com</a></p>
                     <p class="contact-agile1">
-                        <strong>Address :</strong> Sree7Convention, Beside Uma Godowns, Gooty Road,Anantapur,AndhraPradesh,India-515001. 
+                        <strong>Address :</strong> Sree7Convention, Beside Uma Godowns, Gooty Road, Anantapur, AndhraPradesh, India-515001. 
                     </p>
 
                     <div class="social-bnr-agileits footer-icons-agileinfo">
@@ -892,7 +895,7 @@
         </section>
         <!-- /contact -->
         <div class="copy">
-            <p>© 2018 <a href="http://sree7convention.com/">Sree7Inn</a> . All Rights Reserved | Design by <a href="https://charanwebtechnologies.com/">CharanWebTechnologies</a></p>
+            <p>© 2018 <a href="http://sree7convention.com/">Sri7Inn</a> . All Rights Reserved | Design by <a href="https://charanwebtechnologies.com/">CharanWebTechnologies</a></p>
         </div>
 
         <!--/footer -->

@@ -4,3 +4,9 @@ D:\Bhavesh Bambhaniya\sree7\sree7\bin\sree7.pdb
 D:\Bhavesh Bambhaniya\sree7\sree7\obj\Debug\sree7.dll
 D:\Bhavesh Bambhaniya\sree7\sree7\obj\Debug\sree7.pdb
 D:\Bhavesh Bambhaniya\sree7\sree7\obj\Debug\sree7.csprojResolveAssemblyReference.cache
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\bin\sree7.dll.config
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\bin\sree7.dll
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\bin\sree7.pdb
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\obj\Debug\sree7.csprojResolveAssemblyReference.cache
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\obj\Debug\sree7.dll
+D:\Bhavesh Bambhaniya\GitHub\sri7inn\sree7\sree7\obj\Debug\sree7.pdb

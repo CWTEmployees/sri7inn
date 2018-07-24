@@ -4,6 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title>SRI7 INN</title>
+    <meta name="description" content="Sri7 inn book your favourite luxury hotel in Anantapur, Andhra Pradesh. enjoy your vacation with a luxury touch. feel refresh on sri7" />
+    <meta name="keywords" content="sri7 inn hotel, hotel in Anantapur,  hotel near me, 3star hotel, discount in a hotel, deals hotel, cheap hotel, sri7, hotel room, luxury accommodation, budget hotel. sri7 anantapur" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122465525-1"></script>
     <link runat="server" rel="sortcuticon" href="public/img/favicon.ico" type="image/x-icon" />
     <link runat="server" rel="icon" href="public/img/favicon.ico" type="image/icon" />
@@ -16,7 +19,7 @@
     </script>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Sree 7 Conventtions </title>
+    <title>SRI7 INN</title>
     <!-- 
 <link rel="dns-prefetch" href="//www.youtube.com"/>
 <link rel="dns-prefetch" href="//static.fabhotels.com"/>
@@ -985,7 +988,7 @@
                 <div class="main-page">
                     <div class="breadcrumb">
                         <ul class="clearfix">
-                            <li><a href="Home.aspx">Sree7 INN </a></li>
+                            <li><a href="Home.aspx">Sri7 INN </a></li>
                             <li>
                                 <svg class="icon">
                                     <use xlink:href="#nav-arrow" />
@@ -1036,8 +1039,8 @@
                                     <div class=" hotel_info_container hotel-info">
                                         <div class="hotel-info-wrap">
                                             <div class="hotel-info-wrap-data">
-                                                <h1>Sree7 INN </h1>
-                                                <h2>Sree7Convention, Beside Uma Godowns, Gooty Road, Anantapur, AndhraPradesh, India-515001 </h2>
+                                                <h1>Sri7 INN </h1>
+                                                <h2>Sri7 Convention, Beside Uma Godowns, Gooty Road, Anantapur, AndhraPradesh, India-515001 </h2>
                                                 <a href="https://www.google.com/maps/dir/''/Gooty+Road,+Anantapur,+Andhra+Pradesh/@14.7026318,77.5992293,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bb14ad7d1dad2cb:0xf6b84b5c4f725a5a!2m2!1d77.6079841!2d14.7026112" target="_blank" rel="nofollow">
                                                     <span class="show-map">
                                                         <svg class="icon">
@@ -1047,7 +1050,7 @@
                                                     </span>
                                                 </a>
                                             </div>
-                                            <span class="room-left total_rooms_left">5 rooms left </span>
+                                            <%--<span class="room-left total_rooms_left">5 rooms left </span>--%>
                                         </div>
                                         <asp:Button ID="selectroom" class="btn select-room select_room_button" runat="server" Text="Book" CommandName="addroom" CommandArgument='<%# Eval("Room_Id") %>' />
                                         <%--<asp:Button ID="btncheckout" runat="server" class="btn select-room select_room_button" OnClick="btncheckout_Click" Text="SELECT ROOM" />--%>
@@ -1321,7 +1324,7 @@
                                     <li><span>
                                         <svg class="icon">
                                             <use xlink:href="#prizecup-icon" />
-                                        </svg></span> Best reviewed hotel chain. </li>
+                                        </svg></span> Best reviewed hotel Anantapur. </li>
                                     <li><span>
                                         <svg class="icon">
                                             <use xlink:href="#centrally-located-icon" />
@@ -1335,7 +1338,7 @@
                                 </ul>
                             </div>
                             <div class="hospitality-section">
-                                <strong>Stay SREE7 </strong>
+                                <strong>Stay SRI7 </strong>
                                 <div class="hospitality-listing">
                                     <div class="hospitality-pic">
                                         <img src="https://static.fabhotels.com/hospitalityTeam/desktop/team1_pic_v3.png" />
@@ -1364,20 +1367,20 @@
                         </aside>
                                     </div>
                 </div>
-                <div class="fab-stay-coupan fab_stay_coupon ">
+<%--                <div class="fab-stay-coupan fab_stay_coupon ">
                     <p>
                         <svg class="icon pre-applied-icon-white">
                             <use xlink:href="#pre-applied-icon-white" />
                         </svg>
-                        Coupon <strong>STAY SREE7</strong> applied on all SREE7. Lowest price guaranteed. <span class="cross-icon cross_icon">
+                        Coupon <strong>STAY SRI7</strong> applied on all SRI7. Lowest price guaranteed. <span class="cross-icon cross_icon">
                             <svg class="icon">
                                 <use xlink:href="#closeIcon" />
                             </svg></span>
                     </p>
-                </div>
+                </div>--%>
                                     </div>
             <div class="modal-banner-gallery modal_common_gallery">
-                <h2>SREE7 INN </h2>
+                <h2>SRI7 INN </h2>
                 <a href="javascript:void(0);" class="close-gallery close_gallery">
                     <svg class="icon">
                         <use xlink:href="#closeIcon" />
@@ -2077,7 +2080,7 @@
                                             </div>
                                         </div>
                                         <div class="copyright">
-                                            <p>&copy; 2018 Sree7 Inn All rights reserved. Powered by <a href="www.charanwebtechnologies.com">Charan Web Technologies.</a></p>
+                                            <p>&copy; 2018 Sri7 Inn All rights reserved. Powered by <a href="https://www.charanwebtechnologies.com/"> Charan Web Technologies.</a></p>
                                         </div>
                                     </div>
                                 </div>
